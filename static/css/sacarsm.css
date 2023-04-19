@@ -1,0 +1,15 @@
+input{
+    width: 20%;
+
+}
+
+
+legend{
+    text-transform: uppercase;
+    color: firebrick;
+}
+
+*{
+    border: solid chocolate ;
+    border-collapse: collapse;
+}
